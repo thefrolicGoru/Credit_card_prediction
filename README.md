@@ -1,2 +1,2 @@
 # Credit_card_prediction
-Created a prediction model whether a useer is eligible for a credit card or not
+Created a machine learning model to predict whether a user is eligible for a credit card or not
